@@ -13,7 +13,7 @@ import org.springframework.web.filter.CorsFilter;
 
 @SpringBootApplication
 @EnableAutoConfiguration
-//@EnableDiscoveryClient
+@EnableDiscoveryClient
 public class MicroserviceUdeaRegistrationApplication {
 
     public static void main(String[] args) {
