@@ -20,5 +20,5 @@ eureka:
         leaseRenewalIntervalInSeconds: 1
         leaseExpirationDurationInSeconds: 2
 server:
-    port:2222
+    port: 2222
         
